@@ -5,16 +5,6 @@ This project focuses on **classifying emails** from the **Enron email corpus** i
 
 By leveraging **Natural Language Processing (NLP)** and **feature engineering**, we built models that effectively detect spam emails with high accuracy, ensuring a **secure and reliable email filtering system**.  
 
----
-
-## **Project Workflow & Architecture**  
-The following diagram represents the workflow of the spam email classification pipeline:  
-
-<p align="center">
-  <img src="architecture_diagram.png" alt="Project Architecture" width="75%">
-</p>  
-
----
 
 ## **Data Processing**  
 To prepare the data for model training, we performed the following preprocessing steps:  
