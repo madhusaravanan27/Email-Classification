@@ -76,10 +76,10 @@ We analyzed the dataset and model results using various **data visualizations**:
 ## **Future Enhancements**  
 We aim to improve our spam detection model by implementing:  
 
--  **Hybrid models** combining **deep learning (LSTMs, transformers)** and traditional ML.  
--  **Real-time email filtering** by integrating **streaming data processing (Apache Kafka, AWS Kinesis)**.  
--  **Expanded feature engineering** with **word embeddings (Word2Vec, BERT)** for enhanced spam detection.  
--  **Cross-platform integration** to extend usability across **email clients, web apps, and mobile applications**.  
+- **Hybrid models** combining **deep learning (LSTMs, transformers)** and traditional ML.  
+- **Real-time email filtering** by integrating **streaming data processing (Apache Kafka, AWS Kinesis)**.  
+- **Expanded feature engineering** with **word embeddings (Word2Vec, BERT)** for enhanced spam detection.  
+- **Cross-platform integration** to extend usability across **email clients, web apps, and mobile applications**.  
 
 ---
 
